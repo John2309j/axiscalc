@@ -5,7 +5,7 @@ const app=express();
 
 
 app.use(cors({
-    origin:['https://66d1dce12b9c54465e098811--deluxe-speculoos-9853e4.netlify.app']
+    origin:['https://axiscalcfrontend-git-main-johns-projects-1a9cd462.vercel.app']
 }))
 
 
