@@ -87,7 +87,7 @@ const ComponentenCalulator = () => {
   const ApplyFn=()=>{
  
 
-      axios.post('https://nexperiabackend-john2309j-johns-projects-1a9cd462.vercel.app/').then((data:object)=>{
+      axios.post('https://axiscalcbackend-git-main-johns-projects-1a9cd462.vercel.app').then((data:object)=>{
        console.log('api success')
       }).catch((err:object)=>{
         console.log('api error')
