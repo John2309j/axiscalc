@@ -3,7 +3,7 @@ import React from "react";
 const Header=()=>{
    return (
     <>
-       <h1>Axis Bank</h1>
+       <h1>Bxis Bank</h1>
      <h4>Loan EMI Calculator</h4>
   
   <ul id="breadcrumb">
