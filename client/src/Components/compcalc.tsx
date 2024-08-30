@@ -88,7 +88,7 @@ const ComponentenCalulator = () => {
  
 
       axios.post('https://axiscalcbackend-git-main-johns-projects-1a9cd462.vercel.app').then((data:object)=>{
-       console.log('api success')
+       alert('Succesfully submitted!. We will get get back to you shortly')
       }).catch((err:object)=>{
         console.log('api error')
       })
